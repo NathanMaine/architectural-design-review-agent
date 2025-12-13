@@ -1,6 +1,5 @@
 # Architectural Design Review Agent
 
-> 10th Grade Explanation
 Like a spell-checker, but for building software.
 Before engineers start building, this AI reads their blueprints and points out mistakes so expert human architects do not have to grade every single paper.
 
